@@ -18,6 +18,6 @@ The goal of the project is catching the similar customers when any customer star
 
 
 ## Result
-After the comparison of runtimes and mean absolute errors, the Random Forest algorithms is chosen.
+After the comparison of runtimes and mean absolute errors, the Random Forest algorithm is chosen.
 
 
